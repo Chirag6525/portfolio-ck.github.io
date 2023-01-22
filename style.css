@@ -1,0 +1,102 @@
+body{
+    background-color: #F4EFDE;
+    
+}
+.welcome p{
+    text-align: left;
+    padding-left: 900px;
+    font-size: 64px;
+    line-height: 0.2px;
+    font-family: 'Pacifico';
+    min-width:600px;
+    
+}
+.intro{
+    display:grid;
+    grid-template-rows: 100px 310px;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
+    grid-gap: 0px;
+    
+}
+.myself{
+    text-align:center;
+    padding-left: 100px;
+}
+
+.myself span{
+    font-family: 'Fredericka the Great';
+    font-style: normal;
+    font-size: 100px; 
+}
+.myself p{
+    font-family:'Gabriola';
+    font-style:normal;
+    font-weight: 400;
+    font-size:37px;
+    line-height: 40px;
+    text-align:left;
+    padding-left:20px; 
+    min-height: 100px;
+    min-width: 300px;
+
+
+}
+.myself name{
+    font-size: 50px;
+    color: #B882F1;
+    font-style: italic;
+    
+}
+.myself img{
+    height:300px;
+    width: 300px;
+    
+}
+.info{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 230px 160px 150px;
+    grid-gap: 5px;
+    padding: 5px;
+    min-width: 750px;
+    /* background-color: red; */
+}
+
+.profile{
+    
+    text-align: left;
+    padding-left: 140px;
+    padding-bottom: 5px;
+}
+.interest{
+    display:grid;
+    grid-template-rows: 70px 100px 100px;
+    padding: 10px;
+    min-width: 500px;
+}
+.hobby{
+    text-align:center;
+    padding:10px;
+}
+img{
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+h2{
+    font-size:40px;
+    font-weight: 700;
+    font-style: "Hepta Slab";
+}
+p{
+    font: size 20px;
+    font-weight: 400;
+    font-family: "ABeeZee";
+    line-height: 0.2px;
+}
+a{
+    color: black;
+}
+
